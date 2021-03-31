@@ -13,5 +13,8 @@
     "vue-template-compiler": "^2.6.10",
     "webpack": "4.15.*",
     "webpack-dev-middleware": "3.7.x"
+  },
+  "devDependencies": {
+    "vue-router": "^3.5.1"
   }
 }
